@@ -1,2 +1,2 @@
 # hello-world
-just to be familar with github
+hi I am new here and I come to work with github
